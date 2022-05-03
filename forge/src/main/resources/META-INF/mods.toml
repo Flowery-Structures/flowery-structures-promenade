@@ -4,39 +4,39 @@ loaderVersion="[40,)"
 license = "LGPL-2.1"
 
 [[mods]]
-modId = "flowerycrop"
+modId = "flowerypro"
 version = "${version}"
-displayName = "Flowerycrop"
+displayName = "Flowerypro"
 authors = "JustFoxx"
 description = '''
-Support for croptopia for flowery structures
+Support for promenade for flowery structures
 '''
 #logoFile = ""
 
-[[dependencies.flowerycrop]]
+[[dependencies.flowerypro]]
 modId = "forge"
 mandatory = true
 versionRange = "[40,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.flowerycrop]]
+[[dependencies.flowerypro]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.18.2,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.flowerycrop]]
+[[dependencies.flowerypro]]
     modId="flowerycore"
     mandatory=true
     versionRange="[3,)"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.flowerycrop]]
+[[dependencies.flowerypro]]
     modId="flowery"
     mandatory=false
-    versionRange="[2,)"
+    versionRange="[10,)"
     ordering="NONE"
     side="BOTH"

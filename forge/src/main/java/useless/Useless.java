@@ -2,5 +2,5 @@ package useless;
 
 import net.minecraftforge.fml.common.Mod;
 
-@Mod("flowerycrop")
+@Mod("flowerypro")
 public class Useless {}

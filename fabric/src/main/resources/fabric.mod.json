@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "flowerycrop",
+  "id": "flowerypro",
   "version": "${version}",
-  "name": "Flowery Crop",
-  "description": "Support for croptopia for flowery structures",
+  "name": "Flowery Pro",
+  "description": "Support for promenade for flowery structures",
   "authors": [
     "JustFoxx"
   ],
@@ -26,6 +26,6 @@
   "suggests": {
     "flamingo": "*",
     "disable_custom_worlds_advice": "*",
-    "flowery": ">=2"
+    "flowery": ">=10"
   }
 }
