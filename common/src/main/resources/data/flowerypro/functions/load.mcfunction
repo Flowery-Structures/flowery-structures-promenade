@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[Flowery Structure]","color":"#C800D7"},{"text":" Promenade module loaded!","bold":true}]

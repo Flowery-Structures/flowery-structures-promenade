@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "flowerycrop",
+  "version": "${version}",
+  "name": "Flowery Crop",
+  "description": "Support for croptopia for flowery structures",
+  "authors": [
+    "JustFoxx"
+  ],
+  "contact": {
+    "homepage": "https://github.com/FLoweryStructures/core",
+    "sources": "https://github.com/FLoweryStructures/core"
+  },
+  "license": "LGPL-2.1",
+  "environment": "*",
+  "entrypoints": {
+    "main": []
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.8.7",
+    "fabric-resource-loader-v0": "*",
+    "flowerycore": ">=3",
+    "minecraft": "1.18.2"
+  },
+  "suggests": {
+    "flamingo": "*",
+    "disable_custom_worlds_advice": "*",
+    "flowery": ">=2"
+  }
+}

@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+#issueTrackerURL = ""
+license = "LGPL-2.1"
+
+[[mods]]
+modId = "flowerycrop"
+version = "3"
+displayName = "Flowerycrop"
+authors = "JustFoxx"
+description = '''
+Support for croptopia for flowery structures
+'''
+#logoFile = ""
+
+[[dependencies.flowerycrop]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.flowerycrop]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.flowerycrop]]
+    modId="flowerycore"
+    mandatory=true
+    versionRange="[3,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.flowerycrop]]
+    modId="flowery"
+    mandatory=false
+    versionRange="[2,)"
+    ordering="NONE"
+    side="BOTH"
