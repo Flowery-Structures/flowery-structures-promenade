@@ -1,10 +1,10 @@
 {
-    "type": "village",
+    "type": "flowerycore:land",
     "biomes": "#promenade:has_tree/cherry",
     "config": {
         "size": 1,
         "start_pool": "flowerypro:tree/cherry_pink_tree_1"
     },
-    "adapt_noise": false,
+    "adapt_noise": true,
     "spawn_overrides": {}
 }
