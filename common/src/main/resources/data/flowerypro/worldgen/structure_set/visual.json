@@ -1,9 +1,70 @@
 {
-    "structures": [],
+    "structures": [
+        {
+            "structure": "flowerypro:azalea_pot/cherry_azalea_pot",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:azalea_pot/palm_azalea_pot",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:light/cherry_light",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:light/palm_light",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:sit/cherry_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:sit/palm_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree/cherry_pink_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree/cherry_pink_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree/cherry_white_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree/cherry_white_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree/palm_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree/palm_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree_chest/cherry_pink_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree_chest/cherry_white_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree_chest/palm_tree_chest",
+            "weight": 1
+        }
+    ],
     "placement": {
         "type": "minecraft:random_spread",
         "spacing": 15,
         "separation": 4,
         "salt": 145975692
-    }   
+    }
 }

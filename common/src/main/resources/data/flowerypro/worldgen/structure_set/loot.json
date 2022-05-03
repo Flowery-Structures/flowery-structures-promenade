@@ -1,5 +1,18 @@
 {
-    "structures": [],
+    "structures": [
+        {
+            "structure": "flowerypro:tree_chest/cherry_pink_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree_chest/cherry_white_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowerypro:tree_chest/palm_tree_chest",
+            "weight": 1
+        }
+    ],
     "placement": {
         "type": "minecraft:random_spread",
         "spacing": 30,

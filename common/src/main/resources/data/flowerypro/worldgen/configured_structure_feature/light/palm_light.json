@@ -1,0 +1,10 @@
+{
+    "type": "village",
+    "biomes": "#promenade:has_tree/palm",
+    "config": {
+        "size": 1,
+        "start_pool": "flowerypro:light/palm_light"
+    },
+    "adapt_noise": false,
+    "spawn_overrides": {}
+}

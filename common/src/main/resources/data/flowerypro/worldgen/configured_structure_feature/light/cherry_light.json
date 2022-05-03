@@ -1,0 +1,10 @@
+{
+    "type": "village",
+    "biomes": "#promenade:has_tree/cherry",
+    "config": {
+        "size": 1,
+        "start_pool": "flowerypro:light/cherry_light"
+    },
+    "adapt_noise": false,
+    "spawn_overrides": {}
+}
